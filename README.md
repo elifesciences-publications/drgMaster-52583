@@ -5,7 +5,7 @@ The code in GitHub/drgMaster was used to analyze the data in:
 
 Learning improves decoding of odor identity with phase-referenced oscillations in the olfactory bulb 
 Justin Losacco, Daniel Ramirez-Gordillo, Jesse Gilmer and Diego Restrepo
-published in eLife in 2020 (link will be added).
+published in eLife in 2020 (https://doi.org/10.7554/eLife.52983).
 
 The data have been deposited in the GigaScience Database, http://doi.org/10.5524/100699
 
